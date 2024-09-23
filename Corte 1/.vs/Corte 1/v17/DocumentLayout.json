@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\HomeLap\\Documents\\Corte-1\\Corte 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F89C122-5B6B-4E18-B9CC-ABD607F668CD}|Corte 1\\Corte 1.csproj|c:\\users\\homelap\\documents\\corte-1\\corte 1\\corte 1\\clase\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F89C122-5B6B-4E18-B9CC-ABD607F668CD}|Corte 1\\Corte 1.csproj|solutionrelative:corte 1\\clase\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F89C122-5B6B-4E18-B9CC-ABD607F668CD}|Corte 1\\Corte 1.csproj|c:\\users\\homelap\\documents\\corte-1\\corte 1\\corte 1\\clase\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F89C122-5B6B-4E18-B9CC-ABD607F668CD}|Corte 1\\Corte 1.csproj|solutionrelative:corte 1\\clase\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F89C122-5B6B-4E18-B9CC-ABD607F668CD}|Corte 1\\Corte 1.csproj|C:\\Users\\HomeLap\\Documents\\Corte-1\\Corte 1\\corte 1\\clase\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F89C122-5B6B-4E18-B9CC-ABD607F668CD}|Corte 1\\Corte 1.csproj|solutionrelative:corte 1\\clase\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F89C122-5B6B-4E18-B9CC-ABD607F668CD}|Corte 1\\Corte 1.csproj|C:\\Users\\HomeLap\\Documents\\Corte-1\\Corte 1\\corte 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F89C122-5B6B-4E18-B9CC-ABD607F668CD}|Corte 1\\Corte 1.csproj|c:\\users\\homelap\\documents\\corte-1\\corte 1\\corte 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F89C122-5B6B-4E18-B9CC-ABD607F668CD}|Corte 1\\Corte 1.csproj|solutionrelative:corte 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F89C122-5B6B-4E18-B9CC-ABD607F668CD}|Corte 1\\Corte 1.csproj|C:\\Users\\HomeLap\\Documents\\Corte-1\\Corte 1\\corte 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7F89C122-5B6B-4E18-B9CC-ABD607F668CD}|Corte 1\\Corte 1.csproj|solutionrelative:corte 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F89C122-5B6B-4E18-B9CC-ABD607F668CD}|Corte 1\\Corte 1.csproj|C:\\Users\\HomeLap\\Documents\\Corte-1\\Corte 1\\corte 1\\clase\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F89C122-5B6B-4E18-B9CC-ABD607F668CD}|Corte 1\\Corte 1.csproj|solutionrelative:corte 1\\clase\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F89C122-5B6B-4E18-B9CC-ABD607F668CD}|Corte 1\\Corte 1.csproj|C:\\Users\\HomeLap\\Documents\\Corte-1\\Corte 1\\corte 1\\clase\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F89C122-5B6B-4E18-B9CC-ABD607F668CD}|Corte 1\\Corte 1.csproj|solutionrelative:corte 1\\clase\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F89C122-5B6B-4E18-B9CC-ABD607F668CD}|Corte 1\\Corte 1.csproj|C:\\Users\\HomeLap\\Documents\\Corte-1\\Corte 1\\corte 1\\clase\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F89C122-5B6B-4E18-B9CC-ABD607F668CD}|Corte 1\\Corte 1.csproj|solutionrelative:corte 1\\clase\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,61 +30,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Operacion.cs",
               "DocumentMoniker": "C:\\Users\\HomeLap\\Documents\\Corte-1\\Corte 1\\Corte 1\\Clase\\Operacion.cs",
               "RelativeDocumentMoniker": "Corte 1\\Clase\\Operacion.cs",
               "ToolTip": "C:\\Users\\HomeLap\\Documents\\Corte-1\\Corte 1\\Corte 1\\Clase\\Operacion.cs",
               "RelativeToolTip": "Corte 1\\Clase\\Operacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T15:24:23.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T15:24:23.542Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Registro.cs",
               "DocumentMoniker": "C:\\Users\\HomeLap\\Documents\\Corte-1\\Corte 1\\Corte 1\\Clase\\Registro.cs",
               "RelativeDocumentMoniker": "Corte 1\\Clase\\Registro.cs",
               "ToolTip": "C:\\Users\\HomeLap\\Documents\\Corte-1\\Corte 1\\Corte 1\\Clase\\Registro.cs",
               "RelativeToolTip": "Corte 1\\Clase\\Registro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T15:22:24.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T15:22:24.58Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\HomeLap\\Documents\\Corte-1\\Corte 1\\Corte 1\\Clase\\Persona.cs",
               "RelativeDocumentMoniker": "Corte 1\\Clase\\Persona.cs",
               "ToolTip": "C:\\Users\\HomeLap\\Documents\\Corte-1\\Corte 1\\Corte 1\\Clase\\Persona.cs",
               "RelativeToolTip": "Corte 1\\Clase\\Persona.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T15:16:31.903Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\HomeLap\\Documents\\Corte-1\\Corte 1\\Corte 1\\Form1.cs",
               "RelativeDocumentMoniker": "Corte 1\\Form1.cs",
               "ToolTip": "C:\\Users\\HomeLap\\Documents\\Corte-1\\Corte 1\\Corte 1\\Form1.cs",
               "RelativeToolTip": "Corte 1\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAqwEcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T14:45:25.378Z"
+              "WhenOpened": "2024-09-23T14:45:25.378Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\HomeLap\\Documents\\Corte-1\\Corte 1\\Corte 1\\Form1.cs",
               "RelativeDocumentMoniker": "Corte 1\\Form1.cs",
